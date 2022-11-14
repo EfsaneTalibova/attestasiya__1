@@ -1,0 +1,24 @@
+.container_cls{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/M7fDTpDnJcZ4dt3myngzxi.jpg");
+}
+.galaxy{
+    font-size: 38px;
+}
+.category{
+    font-size: 25px;
+}
+.welcome{
+    height: 100%;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+.peak_header{
+    position: fixed;
+    width: 100%;
+}
+main{
+    height: 100vh;
+}
